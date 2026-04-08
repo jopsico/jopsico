@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm João Paulo, a Software Developer Student at UNIFOR | Passionate about Development | Tech Volunteer & Continuous Learner</h2>
+<h2 align="left">Hi 👋! I'm João Paulo, an aspiring Data Analyst & Engineer from Brazil 🇧🇷</h2>
 
 ###
 
